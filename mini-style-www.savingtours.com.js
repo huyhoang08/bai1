@@ -12,6 +12,11 @@ padding:0px 25px 25px 0px
 background:url(http://www.savingtours.com/images/line1.png) no-repeat left bottom;
 padding:0px 25px 25px 0px
 }
+.row_index_cruise{
+background:url(http://www.savingtours.com/images/line2.png) no-repeat right bottom;
+padding:0px 25px 25px 0px
+}
+
 .div_name_index{
 padding-bottom:15px;
 font-size:16px;
