@@ -14,7 +14,8 @@ font-size:16px;
 font-family:Tahoma
 }
 .div_img_index{position:relative}
-.img_index{width:294px;height:160px;
+.img_index{
+width:294px !important;height:160px !important; 
 -moz-border-radius:5px;
 border-radius:5px;
 position:relative;
