@@ -24,3 +24,5 @@ border:5px solid #fff
 .summary_index{text-align:justify;padding:10px 0px 15px 0px}
 .view_more_index{text-align:right;background:url(http://www.savingtours.com/images/icon_viewmore.png) no-repeat right center}
 .a_view_more{text-decoration:underline;padding-right:10px;color:#8d7035;font-size:11px;font-family:tahoma}
+.clr{clear:both}
+.clr span{height:1px}
